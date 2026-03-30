@@ -1,0 +1,33 @@
+{
+  "name": "aula04ppi",
+  "version": "1.0.0",
+  "description": "Implementação método HTTP e POST",
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "HTTP",
+    "POST",
+    "Express"
+  ],
+  "homepage": "https://github.com/luisgustavogsilva1705-code/aula02PPI#readme",
+  "bugs": {
+    "url": "https://github.com/luisgustavogsilva1705-code/aula02PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisgustavogsilva1705-code/aula02PPI.git"
+  },
+  "license": "ISC",
+  "author": "Pedro Bueno",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
