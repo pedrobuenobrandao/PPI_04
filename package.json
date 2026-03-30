@@ -9,13 +9,13 @@
     "POST",
     "Express"
   ],
-  "homepage": "https://github.com/luisgustavogsilva1705-code/aula02PPI#readme",
+  "homepage": "https://github.com/pedrobuenobrandao/PPI_04",
   "bugs": {
-    "url": "https://github.com/luisgustavogsilva1705-code/aula02PPI/issues"
+    "url": "https://github.com/pedrobuenobrandao/PPI_04"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luisgustavogsilva1705-code/aula02PPI.git"
+    "url": "git+https://github.com/pedrobuenobrandao/PPI_04"
   },
   "license": "ISC",
   "author": "Pedro Bueno",
